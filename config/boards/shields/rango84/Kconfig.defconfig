@@ -1,0 +1,6 @@
+if SHIELD_RANGO84
+
+config ZMK_KEYBOARD_NAME
+    default "rango84"
+
+endif
